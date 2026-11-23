@@ -1,0 +1,7 @@
+---
+- name: Install packages using DNF
+  ansible.builtin.dnf:
+    name: "{{ packages_to_install }}"
+    state: present
+    update_cache: true
+  become: true

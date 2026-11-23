@@ -1,0 +1,8 @@
+namespace: projectpotos
+name: custom-roles
+version: 1.0.0
+authors:
+  - Potos
+description: Potos role example
+license:
+  - MIT
