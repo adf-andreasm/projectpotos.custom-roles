@@ -1,6 +1,7 @@
 namespace: projectpotos
 name: custom-roles
 version: 1.0.0
+readme: README.md
 authors:
   - Potos
 description: Potos role example
