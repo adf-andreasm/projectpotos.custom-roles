@@ -1,5 +1,5 @@
 namespace: projectpotos
-name: custom-roles
+name: custom_roles
 version: 1.0.0
 readme: README.md
 authors:
